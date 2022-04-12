@@ -4,11 +4,3 @@ COPY MyWebApp.war /usr/local/tomcat/webapps/webapp.war
 EXPOSE 8080
 
 
-
-
-
-
-
-
-
-
